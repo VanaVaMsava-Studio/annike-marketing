@@ -1,7 +1,7 @@
 body {
   font-family: 'Raleway', sans-serif;
-  color: #0c0c0c;
-  background-color: #ffffff;
+  color:  #570000;
+  background-color: #faeaea;
 }
 
 .layout_padding {
@@ -52,7 +52,7 @@ body {
 .hero_area {
   height: 100vh;
   position: relative;
-  background-image: url(../images/);
+  background-image: url(../images/hero-bg.jpg);
   background-size: cover;
   background-position: right;
   background-repeat: no-repeat;
@@ -85,7 +85,7 @@ body {
 }
 
 .hero_area .slick_main .main-img-box.b1 {
-  background-image: url(../images/a-1.jpg);
+  background-image: url(../images/hero-side-bg.jpg);
 }
 
 .hero_area .slick_main .main-img-box.b2 {
@@ -93,7 +93,7 @@ body {
 }
 
 .hero_area .slick_main .main-img-box.b3 {
-  background-image: url(../images/hero-side-bg.jpg);
+  background-image: url(../images/hero-side-bg3.jpg);
 }
 
 .sub_page .hero_area {
@@ -133,7 +133,7 @@ body {
 }
 
 .custom_nav-container.navbar-expand-lg .navbar-nav .nav-item.active .nav-link, .custom_nav-container.navbar-expand-lg .navbar-nav .nav-item:hover .nav-link {
-  background-color: #f0b016;
+  background-color: hsl(354, 100%, 80%);
   color: #ffffff;
 }
 
@@ -297,7 +297,7 @@ a:focus {
 }
 
 .slider_section .slider_content #carouselExampleIndicators .detail_box p {
-  color: #b5b0b0;
+  color: #2e0404;
 }
 
 .slider_section .slider_content #carouselExampleIndicators .detail_box .btn-box {
@@ -321,21 +321,21 @@ a:focus {
 .slider_section .slider_content #carouselExampleIndicators .detail_box .btn-box .btn-1 {
   display: inline-block;
   padding: 8px 0;
-  background-color: #f0b016;
-  border: 1px solid #f0b016;
+  background-color: #ff99a3;
+  border: 1px solid #ff99a3;
   color: #ffffff;
   border-radius: 5px;
 }
 
 .slider_section .slider_content #carouselExampleIndicators .detail_box .btn-box .btn-1:hover {
   background-color: transparent;
-  color: #f0b016;
+  color: hsl(354, 100%, 80%);
 }
 
 .slider_section .slider_content #carouselExampleIndicators .detail_box .btn-box .btn-2 {
   display: inline-block;
   padding: 8px 0;
-  background-color: #000000;
+  background-color: #2e0404;
   border: 1px solid #000000;
   color: #ffffff;
   border-radius: 5px;
@@ -343,7 +343,7 @@ a:focus {
 
 .slider_section .slider_content #carouselExampleIndicators .detail_box .btn-box .btn-2:hover {
   background-color: transparent;
-  color: #000000;
+  color: #2e0404;
 }
 
 .slider_section .slider_content .img_container {
@@ -422,7 +422,7 @@ a:focus {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  color: #b5b0b0;
+  color:  #2e0404;
   bottom: 10%;
   left: 15%;
   font-size: 18px;
